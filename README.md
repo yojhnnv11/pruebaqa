@@ -1,2 +1,0 @@
-# pruebaqa
-Prueba tecnica QA
